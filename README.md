@@ -1,1 +1,1 @@
-### Evasion Genrative Adversarial Network
+### Evasion Generative Adversarial Network
