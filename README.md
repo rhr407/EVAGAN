@@ -1,6 +1,7 @@
 # Evasion Generative Adversarial Network
 
-![Alt text](EVAGAN.pdf "EVAGAN Architecture")
+![](EVAGAN.svg "EVAGAN Architecture")
+
 
 ## Prerequisites
 
