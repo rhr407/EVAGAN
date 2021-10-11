@@ -12,7 +12,7 @@
 
 ## Cite this Work
 ```
-Randhawa, Rizwan Hamid, et al. "EVAGAN: Evasion Generative Adversarial Network for Low Data Regimes." arXiv preprint arXiv:2109.08026 (2021).
+Randhawa, Rizwan Hamid, et al. "EVAGAN: Evasion Generative Adversarial Network for Low Data Regimes." arXiv preprint arXiv:2109.08026 (2021)
 ```
 ### Bibtex
 ```
@@ -22,4 +22,5 @@ Randhawa, Rizwan Hamid, et al. "EVAGAN: Evasion Generative Adversarial Network f
   journal={arXiv preprint arXiv:2109.08026},
   year={2021}
 }
+
 ```
