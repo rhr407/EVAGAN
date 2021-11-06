@@ -9,6 +9,8 @@
 * Numpy
 * For the rest of the packages please refer to header.py file inside the project directory.
 
+## Dataset
+The preprocessed datasets can be downloaded from [this link](https://drive.google.com/drive/folders/1sOUEK0Cgpm_P_uxpBydTzGXbJdPISGnU?usp=sharing)
 
 ## Cite this Work
 ```
