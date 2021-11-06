@@ -10,7 +10,7 @@
 * For the rest of the packages please refer to header.py file inside the project directory.
 
 ## Dataset
-The preprocessed datasets can be downloaded from [this link](https://drive.google.com/drive/folders/1sOUEK0Cgpm_P_uxpBydTzGXbJdPISGnU?usp=sharing)
+The preprocessed datasets can be downloaded from [here](https://drive.google.com/drive/folders/1sOUEK0Cgpm_P_uxpBydTzGXbJdPISGnU?usp=sharing). There are other datasets as well. The user of this project will only need ISCX-2014, CIC-2017 and CIC-2018 datasets as mentioned in the paper.
 
 ## Cite this Work
 ```
