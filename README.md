@@ -10,8 +10,7 @@
 * For the rest of the packages please refer to header.py file inside the project directory.
 
 ## Dataset
-The preprocessed datasets can be downloaded from [here](https://drive.google.com/drive/folders/1sOUEK0Cgpm_P_uxpBydTzGXbJdPISGnU?usp=sharing). There are other datasets as well. The user of this project will only need ISCX-2014, CIC-2017 and CIC-2018 datasets as mentioned in the paper.
-
+The preprocessed datasets can be downloaded from [here](https://drive.google.com/drive/folders/1sOUEK0Cgpm_P_uxpBydTzGXbJdPISGnU?usp=sharing).
 ## Cite this Work
 ```
 Randhawa, Rizwan Hamid, et al. "EVAGAN: Evasion Generative Adversarial Network for Low Data Regimes." arXiv preprint arXiv:2109.08026 (2021)
