@@ -38,3 +38,5 @@ Randhawa, R. H., Aslam, N., Alauthman, M., & Rafiq, H. (2021). EVAGAN: Evasion G
 }
 
 ```
+## To Do
+The user will need to manually create the `cache` and `figs` folders inside the project directory. Within both folders, there will need to create subfolders as `ACGAN_CV` `ACGAN_CC` `EVAGAN_CV` and `EVAGAN_CC`. The code will be patched for the automatic creation of these folder/subfolders soon.
