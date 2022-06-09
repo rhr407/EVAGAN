@@ -6,12 +6,16 @@ A myriad of recent literary works has leveraged generative adversarial networks 
 
 ## Prerequisites
 
-Following main libraries were used in the development. However, some other libraries being imported in th eheader.py file may need to be installed.
+Following main libraries were used in the development. However, some other libraries being imported in the header.py file may need to be installed.
 
 - Tensorflow
 - Keras
 - Numpy
 - For the rest of the packages please refer to header.py file.
+
+## Manuscript
+
+Full text manuscript can be found [here](https://arxiv.org/abs/2109.08026).
 
 ## Dataset
 
