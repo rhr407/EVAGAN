@@ -56,11 +56,4 @@ geckodriver.log
 docs/source/changelog.md
 
 .jupyter_releaser_checkout
-RESULTS
-rough_work
-keras_ACGAN
-figs
-Dataset
-cache
 .h*
-papers
